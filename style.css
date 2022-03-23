@@ -1,0 +1,38 @@
+body {
+padding-top: 75px;   
+text-align: center ;
+background-color:aqua;
+    
+}
+#title {
+    font-family: Comic Sans MS ;
+    font-style: bold ;
+    
+    
+    
+}
+.item p {
+    
+    font-size: 25px ;  
+    font-family:Comic Sans MS; 
+    color: chocolate ;
+}
+.heading { 
+
+ background:linear-gradient(#e66465, #9198e5);
+
+}
+
+.something {
+    height:550px;
+    width: 750px;
+    margin-top: 35px;
+
+} 
+#navstyle {
+    background-color: transparent;  
+    color: white;
+}
+
+    
+
